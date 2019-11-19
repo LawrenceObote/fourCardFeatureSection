@@ -87,27 +87,14 @@ p {
        text-align: center;
        margin: 0 auto;
        padding: 0 3%;
-    }
+}
 #our{
     	margin-bottom: 5%;
     	padding-left:15%;
     	padding-right: 15%;
     }
-	
 .cardSection{
 	align-items: center;
 	display:flex;
 	flex-flow: column;
-	}
-
-.supervisor{
-	margin-bottom: 3%;
-	}
-
-	
-
-.karma{
-	margin-bottom: 3%;
-	margin-top: 0%;
-	}
 }
